@@ -30,7 +30,7 @@ A **Computer Science and Engineering Student** 🚀 from Rajasthan, India.
 - 💼 I’m pursuing a Bachelor's degree in Computer Science.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [anshuljoshi2001@gmail.com](mailto:anshuljoshi2001@gmail.com).
-- 📝 See my [Resume](https://drive.google.com/drive/u/1/folders/1cbrfZMTUcwTT8wUXntTL2IskETGX4DJu) to get more info.
+- 📝 See my [Resume](https://drive.google.com/file/d/1MuxNWWBmGitH5Hu-2pBIKudXeNX6whoL/view?usp=drive_link) to get more info.
 
 
 **Languages and Tools:**
