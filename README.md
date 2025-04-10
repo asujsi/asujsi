@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 <br />
 <br />
 
-A **Computer Science and Engineering Student** 🚀 from Rajasthan, India.
+A **Software Developer** 🚀 located in Gurugram, India.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
