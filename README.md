@@ -25,9 +25,7 @@ A **Computer Science and Engineering Student** 🚀 from Rajasthan, India.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently searching for a Web Development Internship.
-- 🌱 I’m currently exploring Mern stack.
-- 💼 I’m pursuing a Bachelor's degree in Computer Science.
+- 💼 Bachelor of Technology (B.Tech) in Computer Science.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [anshuljoshi2001@gmail.com](mailto:anshuljoshi2001@gmail.com).
 - 📝 See my [Resume](https://drive.google.com/file/d/1MuxNWWBmGitH5Hu-2pBIKudXeNX6whoL/view?usp=drive_link) to get more info.
